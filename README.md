@@ -1,6 +1,7 @@
 # MS-SSO-Extension
 
-This is an unofficial list of "applications" that support the Microsoft SSO Extension for macOS.
+This is an unofficial list of "applications" that support the [Microsoft SSO Extension ](https://learn.microsoft.com/en-us/azure/active-directory/develop/apple-sso-plugin)for macOS.
+
 
 **AppPrefixAllowList**
 ```

@@ -2,8 +2,8 @@
 
 This is an unofficial list of "applications" that support the Microsoft SSO Extension for macOS.
 
-AppPrefixAllowList
-
+**AppPrefixAllowList**
+```
 com.microsoft.
 com.jamf.
 com.jamfsoftware.
@@ -16,8 +16,9 @@ com.zscaler.
 com.mosyle.
 com.cisco.
 com.keepersecurity.
-
-AppAllowList
+```
+**AppAllowList**
+```
 com.cisco.anyconnect.gui
 Cisco-Systems.Spark
 com.microsoft.Outlook
@@ -26,3 +27,4 @@ com.microsoft.OneDrive
 com.microsoft.edgemac
 us.zoom.xos
 com.zscaler.Zscaler
+```
